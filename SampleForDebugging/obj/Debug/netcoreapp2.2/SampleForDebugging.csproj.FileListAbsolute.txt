@@ -1,0 +1,22 @@
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\bin\Debug\netcoreapp2.2\SampleForDebugging.deps.json
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\bin\Debug\netcoreapp2.2\SampleForDebugging.runtimeconfig.json
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\bin\Debug\netcoreapp2.2\SampleForDebugging.runtimeconfig.dev.json
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\bin\Debug\netcoreapp2.2\SampleForDebugging.dll
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\bin\Debug\netcoreapp2.2\SampleForDebugging.pdb
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\obj\Debug\netcoreapp2.2\SampleForDebugging.csprojAssemblyReference.cache
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\obj\Debug\netcoreapp2.2\SampleForDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\obj\Debug\netcoreapp2.2\SampleForDebugging.RazorAssemblyInfo.cache
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\obj\Debug\netcoreapp2.2\SampleForDebugging.RazorAssemblyInfo.cs
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\obj\Debug\netcoreapp2.2\SampleForDebugging.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\obj\Debug\netcoreapp2.2\SampleForDebugging.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\obj\Debug\netcoreapp2.2\SampleForDebugging.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\obj\Debug\netcoreapp2.2\SampleForDebugging.dll
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\obj\Debug\netcoreapp2.2\SampleForDebugging.pdb
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\bin\Debug\netcoreapp2.2\Utilities.dll
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\bin\Debug\netcoreapp2.2\Utilities.pdb
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\obj\Debug\netcoreapp2.2\SampleForDebugging.csproj.CopyComplete
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\bin\Debug\netcoreapp2.2\Connected Services\Application Insights\ConnectedService.json
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Admin\Source\Repos\SampleForDebugging\SampleForDebugging\obj\Debug\netcoreapp2.2\SampleForDebugging.genruntimeconfig.cache

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA710hGpvRDkKvP/CZ6kRzvgAAAAACAAAAAAAQZgAAAAEAACAAAABI+CBdtN9sP5yzLSzEn5hlkWWeYQYyb4NhMKeI6mOJ2AAAAAAOgAAAAAIAACAAAABFZ0BgLvOB0KQ89No+fnf9oKdgwhK0xINtiZ0CpINuBYAAAABk637QXD9So7HzGz78fhXtZhzw5GlNy4pkQUBljxh9kPKNEIvIE/7a8L5DqlU/iwEQCiuTjjM1kHMdGh253yYmUet29X8TTXZZ7M9fMGzKuNIH0fhItn3sFv+wRzjR2WK36U0b8H51Wzo+g4O0hW2BnHhSQN7Hp0eMG6FyO/MmmEAAAAANEnburp5vRBmhiMt+Blac0NCpprH8Setd809L3ekpregyIcO12WPtB0Q14eC4tbu0g0xd59amyASINvhnqsot</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-sg1-041.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>04/13/2020 00:55:16</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>04/13/2020 00:57:50</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.KeyVault.Core.dll">
+      <publishTime>12/07/2016 09:37:44</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.Storage.Common.dll">
+      <publishTime>02/06/2020 23:17:16</publishTime>
+    </File>
+    <File Include="Microsoft.Azure.Storage.Queue.dll">
+      <publishTime>02/06/2020 23:17:26</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>04/02/2017 17:46:32</publishTime>
+    </File>
+    <File Include="SampleDebugger.deps.json">
+      <publishTime>04/13/2020 01:07:07</publishTime>
+    </File>
+    <File Include="SampleDebugger.dll">
+      <publishTime>04/13/2020 01:07:07</publishTime>
+    </File>
+    <File Include="SampleDebugger.exe">
+      <publishTime>04/13/2020 01:07:07</publishTime>
+    </File>
+    <File Include="SampleDebugger.pdb">
+      <publishTime>04/13/2020 01:07:07</publishTime>
+    </File>
+    <File Include="SampleDebugger.runtimeconfig.json">
+      <publishTime>04/13/2020 01:07:07</publishTime>
+    </File>
+    <File Include="Utilities.dll">
+      <publishTime>04/13/2020 01:07:06</publishTime>
+    </File>
+    <File Include="Utilities.pdb">
+      <publishTime>04/13/2020 01:07:06</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>04/13/2020 01:07:10</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
