@@ -25,6 +25,11 @@ namespace SampleForDebugging.Controllers
         {
             _config = config;
         }
+        [HttpGet]
+        public bool Get(string message)
+        {
+            return true;
+        }
     }
 
 
